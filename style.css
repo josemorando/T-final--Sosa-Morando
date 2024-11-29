@@ -1,0 +1,23 @@
+header {
+    background-color: rgb(9, 99, 9);
+    color: white;
+    text-align: center;
+}
+
+aside {
+    background-color: rgb(70, 105, 70);
+    color: black;
+    text-align: center;
+}
+
+h3 {
+    background-color: rgb(164, 164, 89);
+    color: black;
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(38, 36, 36);
+    color: white;
+    text-align: left;
+}
